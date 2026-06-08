@@ -27,7 +27,21 @@
 * ボール分裂などのボールに関するクラス （担当:水口）
 * 一定確率でボールを打つと、そのボールがキーパーを貫通するクラス（担当:後藤）
 * キーパーの動きに関するクラス(担当:西尾)
-### ToDo
+### プレイ動画
+・通常シュート
+https://github.com/user-attachments/assets/096a7fc6-3630-4d46-b930-63bb2f44a84f
+
+・チャージシュート＋スコア４以上でキーパー巨大化
+https://github.com/user-attachments/assets/f444f038-b12b-4612-9f40-02f2e334e68a
+
+・カーブ
+https://github.com/user-attachments/assets/c5366ed8-fda2-42c4-8694-83d0feb29307
+
+・キーパー貫通弾
+https://github.com/user-attachments/assets/670987e4-0e9e-43c9-be81-5697cf2b90ad
+
+
+
 - 
 - 
 
